@@ -1,0 +1,32 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "description": "A full-featured food ordering application. The app allows users to browse menus, add items to the cart, and place orders seamlessly.",
+  "scripts": {
+    "test": "Jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHALINICHINNAGURAVAGARI/Food-Ordering-App.git"
+  },
+  "keywords": [
+    "food",
+    "ordering",
+    "app"
+  ],
+  "author": "Shalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHALINICHINNAGURAVAGARI/Food-Ordering-App/issues"
+  },
+  "homepage": "https://github.com/SHALINICHINNAGURAVAGARI/Food-Ordering-App#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
